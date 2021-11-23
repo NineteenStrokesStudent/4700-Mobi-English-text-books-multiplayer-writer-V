@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">937</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fa0038b7-2081-4111-8514-40478fbff200</dc:identifier>
+        <dc:title>Protect and defend: a thriller</dc:title>
+        <dc:creator opf:file-as="Flynn, Vince" opf:role="aut">Vince Flynn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-10-30T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+New York Times bestselling author Vince Flynn returns with his most explosive political thriller yet. A tour de force of action-packed suspense, Protect and Defend delivers an all-too-realistic and utterly compelling vision of nations navigating the minefield of international intrigue. A true  heavyweight in the political thriller arena  (Minneapolis Star Tribune), Vince Flynn has created a flesh-and-blood hero that readers can cheer for and a  finger-blistering page-turner  they won t dare put down.In Protect and Defend, the action begins in the heart of Iran, where billions of dollars are being spent on the development of a nuclear program. No longer willing to wait for the international community to stop its neighboring enemy, Israel launches one of the most creative and daring espionage operations ever conceived.  The attack leaves a radioactive tomb and environmental disaster in the middle of Iran s second largest city.  An outraged Iranian government publicly blames both Israel and the United States for the attack and demands retribution.  Privately, Iran s bombastic president wants much more.  He wants America and Israel to pay for their aggression with blood.Enter Mitch Rapp, America s top counterterrorism operative. Used to employing deception, Rapp sees an opportunity where others see only Iranian reprisals that could leave thousands of Americans dead.  Rapp convinces President Josh Alexander to sign off on a risky operation that will further embarrass the Iranian government and push their country to the brink of revolution.  As part of the plan, CIA director Irene Kennedy is dispatched to the region for a clandestine meeting with Azad Ashani, her Iranian counterpart.But Rapp isn t the only one hatching plans.  Iranian President Amatullah, has recruited Hezbollah master terrorist Imad Mukhtar to do his dirty work.  For decades Mukhtar has acted as a surrogate for Iran, blazing a trail of death and destruction across the Middle East and beyond.  When Kennedy s meeting with Ashani goes disastrously wrong, Rapp and Mukhtar are set on a collision course that threatens to engulf the entire region in war.  With the clock ticking, Rapp is given twenty-four hours, no questions asked, to do whatever it takes to stop Mukhtar, and avert an unthinkable catastrophe.</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780743270410</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Thriller</dc:subject>
+        <meta content="Mitch Rapp" name="calibre:series"/>
+        <meta content="8" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-02-14T05:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Protect and defend: a thriller" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Thriller&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
